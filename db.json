@@ -1,0 +1,11 @@
+{
+  "stations": [
+    { "id": 1, "code": "ABR", "region": "GB" },
+    { "id": 2, "code": "HIT", "region": "GB" }
+  ],
+  "regions": [
+    { "id": 1, "code": "GB" },
+    { "id": 2, "code": "DK" },
+    { "id": 3, "code": "NO" }
+  ]
+}

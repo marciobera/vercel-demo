@@ -1,10 +1,8 @@
 const jsonServer = require('json-server')
 const server = jsonServer.create()
 
-const { readFileSync } = require('fs')
-const { join } = require('path')
-const file = jsonServer.router(readFileSync(join(__dirname, 'db.json'), 'utf8'))
-const router = file
+const path = require('path')
+const router = jsonServer.router(path.join(__dirname, 'db.json'))
 const middlewares = jsonServer.defaults()
 
 server.use(middlewares)

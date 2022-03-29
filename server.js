@@ -1,9 +1,11 @@
 const jsonServer = require('json-server')
 const server = jsonServer.create()
 
-// const path = require('path')
-const db = require('./db')
-const router = jsonServer.router(db);//jsonServer.router(path.join(__dirname, 'db.json'))
+const path = require('path')
+const fs = require('fs')
+const file = path.join(__dirname, 'db.json');
+fs.chmodSync(file, 0o755);
+const router = jsonServer.router(file)
 
 const middlewares = jsonServer.defaults()
 

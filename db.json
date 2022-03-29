@@ -1,7 +1,8 @@
 {
   "stations": [
     { "id": 1, "code": "ABR", "region": "GB" },
-    { "id": 2, "code": "HIT", "region": "GB" }
+    { "id": 2, "code": "HIT", "region": "GB" },
+    { "id": 3, "code": "MGC", "region": "GB" }
   ],
   "regions": [
     { "id": 1, "code": "GB" },

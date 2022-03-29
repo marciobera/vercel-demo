@@ -2,53 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf04b6c0-751d-42bf-8337-2b87024fc3d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__fixtures__/config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__fixtures__/middlewares/en.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__fixtures__/middlewares/jp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__fixtures__/middlewares/postbody.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__fixtures__/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__fixtures__/seed.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__tests__/cli/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__tests__/server/mixins.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__tests__/server/plural-fake.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__tests__/server/plural-with-custom-foreign-key.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__tests__/server/plural.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__tests__/server/singular-fake.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__tests__/server/singular.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__tests__/server/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__tests__/server/validate-data.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cli/bin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cli/example.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cli/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cli/run.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cli/utils/is.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cli/utils/load.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/server/body-parser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/server/defaults.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/server/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/server/mixins.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/server/rewriter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/server/router/delay.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/server/router/get-full-url.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/server/router/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/server/router/nested.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/server/router/plural.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/server/router/singular.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/server/router/validate-data.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/server/router/write.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/server/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +42,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1648539776308</updated>
-      <workItem from="1648539781934" duration="1352000" />
+      <workItem from="1648539781934" duration="1539000" />
     </task>
     <servers />
   </component>

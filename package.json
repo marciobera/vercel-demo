@@ -93,6 +93,9 @@
     "url": "https://github.com/typicode/json-server/issues"
   },
   "homepage": "https://github.com/typicode/json-server",
+  "engines": {
+    "node": ">=14.x"
+  },
   "jest": {
     "testURL": "http://localhost/"
   }
